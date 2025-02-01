@@ -33,7 +33,6 @@ pip install -r requirements.txt
 
 ## اجرای اسکریپت / Running the Script
 
-برای اجرای اسکریپت کافیست این دستور رو وارد کنی:
 ```bash
 python config_downloader.py
 ```
